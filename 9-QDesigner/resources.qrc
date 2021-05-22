@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="iconos">
+    <file>exit.png</file>
+    <file>info.png</file>
+    <file>save.png</file>
+  </qresource>
+</RCC>
